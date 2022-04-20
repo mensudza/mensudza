@@ -74,13 +74,13 @@ I am an enthusiastic and friendly computer science student with a huge passion f
 ### :fire: My Stats :
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=mensudza&theme=dracula&date_format=j%20M%5B%20Y%5D" />
+    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=mensudza&theme=Javascript&date_format=j%20M%5B%20Y%5D" />
   </a>
  </div>
  </br>
  <div align="center">
   <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mensudza&layout=compact&theme=dracula" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mensudza&layout=compact&theme=Javascript" />
   </a>
 </div>
 
